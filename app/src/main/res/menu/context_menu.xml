@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/save_image_as"
+        android:title="Save Image As" />
+    <item android:id="@+id/copy_image"
+        android:title="Copy Image" />
+    <item android:id="@+id/copy_link_address"
+        android:title="Copy Link Address" />
+    <item android:id="@+id/save_link_as"
+        android:title="Save Link As" />
+</menu>
